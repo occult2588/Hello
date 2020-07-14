@@ -1,0 +1,12 @@
+body {
+  margin: 0;background-color: #fff
+}
+
+.hidden-warning {
+  display: none
+}
+
+canvas {
+  width: 100vw;
+  height: 100vh;
+}
