@@ -1,2 +1,2 @@
 # Hub
-Hello word
+Hello world
